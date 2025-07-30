@@ -1,4 +1,5 @@
-# SearXNG-Web-Extension (Unofficial)
+# SearXNG-Web-Extension (Thaddeus - Local)
+**Note:** This will not work for you. https://search.thadd.org is local to my home network and searches will fail unless local or connected via VPN. 
 [<img src="./firefox-add-ons.png" title="Firefox Add-ons" width="auto" height="47" />](https://addons.mozilla.org/en-US/firefox/addon/searxng-search) <p><a href=""><img src="https://img.shields.io/amo/users/searxng-search?style=flat-square" alt="Badge" /></a></p>
 
 # SearXNG
